@@ -13,7 +13,7 @@ This is the repository for the code files of the **Introduction to Machine Learn
 - Bayes' classifiers (Naive Bayes, Gaussian Bayes; MLE)
 - Bayesian approaches to unsupervised learning (Gaussian mixtures, EM)
 
-The repository contains a folder with the code to the compulsory capstone projects, where all of the theoretical knowledge of the lecture had to be applied. 
+The repository contains a folder with the code to the compulsory capstone projects, where all of the theoretical knowledge of the lecture had to be applied. The code of all projects passed both the public and private performance baseline and resulted in the maximum grade of 6.0/6.0.
 
 
 
